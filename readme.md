@@ -17,11 +17,11 @@ PCB was designed in Autocad EAGLE, all of the necessary files should be updated 
 
 # Schematic
 
-![schematic](eagle_files/schematic.png?raw=true "Schematic")
+![schematic](https://github.com/KFrydryk/GCloud-Soil-Moisture-Sensor/blob/master/Eagle_files/schematic.png?raw=true "Schematic")
 
 # Board
 
-![Board](eagle_files/board.png?raw=true "Board")
+![Board](https://github.com/KFrydryk/GCloud-Soil-Moisture-Sensor/blob/master/Eagle_files/board.png?raw=true "Board")
 
 # Photo
 
