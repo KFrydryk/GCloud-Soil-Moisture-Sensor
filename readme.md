@@ -4,6 +4,8 @@ This is a home project and an exercise on using Cloud solutions in IoT.
 
 The project uses a generic soil moisture sensor and a photoresistor with ESP8266 and complementary devices (resistors, buttons, voltage regulator and some pin headers).
 
+[*Results can be seen here!*](https://datastudio.google.com/reporting/f9fdeeb2-1fdc-4f80-99da-87816e4d7d12)
+
 # How does it work?
 
 The data is from the sensor is gathered as analog value and mapped to 0-100% range. ESP8266s analog in is rated for 0-1V only so the reading has to be transformed via a simple voltage divider.
